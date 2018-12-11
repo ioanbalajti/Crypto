@@ -1,0 +1,12 @@
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\bin\Debug\Crypto.exe.config
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\bin\Debug\Crypto.exe
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\bin\Debug\Crypto.pdb
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\obj\Debug\Crypto.exe
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\obj\Debug\Crypto.pdb
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Crypto\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Crypto\Crypto\obj\Debug\Crypto.exe
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Crypto\Crypto\obj\Debug\Crypto.pdb
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Crypto\Crypto\bin\Debug\Crypto.exe.config
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Crypto\Crypto\bin\Debug\Crypto.exe
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Crypto\Crypto\bin\Debug\Crypto.pdb

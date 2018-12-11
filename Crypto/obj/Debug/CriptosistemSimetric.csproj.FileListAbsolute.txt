@@ -1,0 +1,7 @@
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\bin\Debug\CriptosistemSimetric.exe.config
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\bin\Debug\CriptosistemSimetric.exe
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\bin\Debug\CriptosistemSimetric.pdb
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\obj\Debug\CriptosistemSimetric.csprojAssemblyReference.cache
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\obj\Debug\CriptosistemSimetric.csproj.CoreCompileInputs.cache
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\obj\Debug\CriptosistemSimetric.exe
+d:\Facultate anul 2\Facultate-master\#Anul II\Sem I\Criprtografie\CriptosistemSimetric\CriptosistemSimetric\obj\Debug\CriptosistemSimetric.pdb
