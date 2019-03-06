@@ -36,14 +36,16 @@ namespace SSI_password_generator
             else if (e.ClickedItem.Text == "Delete Entry" && mainWindow.passwordRecordGridView.CurrentCell.Value != null)
             {
                 TableTableAdapter regionTableAdapter = new TableTableAdapter();
-                //DataTableConnection dataTableConnection = new DataTableConnection();
-                //var dataTable = dataTableConnection.RefreshDataTable();
-                regionTableAdapter.Delete(Convert.ToInt32(mainWindow.passwordRecordGridView.CurrentRow.Cells[0].Value),
+                mainWindow.rightClickMenu.Visible = false;
+                var confirmResult = MessageBox.Show("Are you sure to delete this entry ?", "Confirm Delete", MessageBoxButtons.YesNo);
+                if (confirmResult == DialogResult.Yes)
+                {
+                    regionTableAdapter.Delete(Convert.ToInt32(mainWindow.passwordRecordGridView.CurrentRow.Cells[0].Value),
                     mainWindow.passwordRecordGridView.CurrentRow.Cells[1].Value.ToString(),
                     mainWindow.passwordRecordGridView.CurrentRow.Cells[2].Value.ToString(),
                     mainWindow.passwordRecordGridView.CurrentRow.Cells[3].Value.ToString());
-                dt.RefreshDataTable();
-
+                    dt.RefreshDataTable();
+                }
             }
         }
 

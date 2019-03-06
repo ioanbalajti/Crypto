@@ -65,9 +65,19 @@ namespace SSI_password_generator
             if (uRLTextBox.Text.Trim() != "" && usernameTextBox.Text.Trim() != "" && passwordTextBox.Text.Trim() != "")
             {
                 if (dataTable.Rows.Count == 0)
+                {
                     regionTableAdapter.Insert(1, URLTextBox.Text, UsernameTextBox.Text, PasswordTextBox.Text);
+                    URLTextBox.Text = "";
+                    UsernameTextBox.Text = "";
+                    PasswordTextBox.Text = "";
+                }
                 else
+                {
                     regionTableAdapter.Insert(Convert.ToInt32(dataTable.Rows[dataTable.Rows.Count - 1].ItemArray[0]) + 1, URLTextBox.Text, UsernameTextBox.Text, PasswordTextBox.Text);
+                    URLTextBox.Text = "";
+                    UsernameTextBox.Text = "";
+                    PasswordTextBox.Text = "";
+                }
             }
             dataTableConnection.RefreshDataTable();
         }
